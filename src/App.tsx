@@ -155,7 +155,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>What's the most beautiful NFT?</h2>
+        <h2>What's the most beautiful NFT? <br/>
+        <a href='https://blur.io/asset/0x3acce66cd37518a6d77d9ea3039e00b3a2955460/6776'> Buy here !</a>
+        </h2>
       </header>
       <TableContainer
         component={Paper}
